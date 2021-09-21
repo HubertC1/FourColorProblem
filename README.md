@@ -7,4 +7,5 @@ Instructions to this code: <br>
 4.Modify color900.txt to your desired map <br>
 5.Do not change color900_0.txt color900_1.txt and color 900_2.txt, those are just examples of a map <br>
 6.Input file cannot have excess lines! <br>
-7.You're good to go! <br>
+7.Last digit of the last line should be space. <br>
+8.You're good to go! <br>
